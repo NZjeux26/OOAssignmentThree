@@ -1,0 +1,4 @@
+﻿  AssignmentThree234.cpp
+C:\Users\NZJeu\source\repos\AssignmentThree234\AssignmentThree234.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NZJeu\source\repos\AssignmentThree234\AssignmentThree234.cpp(115,9): warning C4551: function call missing argument list
+  AssignmentThree234.vcxproj -> C:\Users\NZJeu\source\repos\AssignmentThree234\Debug\AssignmentThree234.exe
